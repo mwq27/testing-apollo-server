@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Splash Chic",
+    "image": "https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/story-1.jpg",
+    "description": "Women's Wet Gear"
+  },
+  {
+    "id": 2,
+    "name": "Kid Klimbers",
+    "image": "https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/story-2.jpg",
+    "description": "Children's Gear"
+  },
+  {
+    "id": 3,
+    "name": "Pack It In",
+    "image": "https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/story-4.jpg",
+    "description": "Camping Gear"
+  },
+  {
+    "id": 4,
+    "name": "Nature's AC",
+    "image": "https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/story-3.jpg",
+    "description": "Men's Shorts"
+  }
+]
