@@ -2,7 +2,7 @@
   "name": "apollo-server-container",
   "description": "Container running apollo server. Used for PS course Testing Apollo.",
   "dependencies": {
-    "apollo-server": "2.9.7",
+    "apollo-server": "2.14.2",
     "graphql": "14.5.8",
     "graphql-tag": "^2.10.1"
   },
